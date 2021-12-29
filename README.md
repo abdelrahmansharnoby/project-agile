@@ -22,3 +22,13 @@ design and choosing user friendly and interactive ui/ux, design database with th
 #### overview of sprint one 
 - basic UI/UX
 - data base system
+#### sprint 2 
+in this pahse we will do the basics of the professors functionality uploading the materials, the dashborard of the website for the mobile (like moodle) and the wbsite (like our lms ) also can handle the assignments, quizes (deadlines) 
+#### overview sprint 2 
+- UI/UX of the dashboard 
+- log in for the professors 
+- handling the assignments 
+- handling quizzes (the start and the end)
+- can spicify the type of the submition (type of the doccument)
+ 
+- 
