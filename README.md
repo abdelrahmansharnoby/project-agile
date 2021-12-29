@@ -31,4 +31,4 @@ in this pahse we will do the basics of the professors functionality uploading th
 - handling quizzes (the start and the end)
 - can spicify the type of the submition (type of the doccument)
  
-- 
+
