@@ -13,7 +13,12 @@
 
 ### testing team 
 #### Name: Abdelrahman, role: pen tsting , experience: pen testing and sql injection 
-#### Name : mariam , role : unit functional testing, experience: javascript selenium 
+#### Name : mariam , role : unit functional testing, experience: javascript, selenium 
 #### Name : omar , role intigration testing , experience rest assurince c++ c#
 
 ### near vision 
+#### Sprint 1
+design and choosing user friendly and interactive ui/ux, design database with the expected tables and features that will link all the data that comes form the college management system toghther so we can store the data and also do operations on the data, we can reach the data easily and also do operations on data by doing this we can have the basics of the inteface and overall visiualization of the project that will help us in the next phases 
+#### overview of sprint one 
+- basic UI/UX
+- data base system
