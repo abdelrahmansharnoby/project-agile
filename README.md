@@ -30,5 +30,6 @@ in this pahse we will do the basics of the professors functionality uploading th
 - handling the assignments 
 - handling quizzes (the start and the end)
 - can spicify the type of the submition (type of the doccument)
- 
+ ### far vision 
+ we want to have a strong application mobile and web application that can perform some functionalities the professors can add assignments and quizzes, students can see assignments and know the deadlines, quizzes have time to start and end, all the materials of each subject is on both the web and the mobile app and by all of these we can help the students to access the materials easily and have a healthy learning enviroment  
 
