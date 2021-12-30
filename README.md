@@ -48,3 +48,8 @@ for the ratinale the diagram is test-driven developement which is software uproa
 ##### 13	Medium Story
 ##### 20	Large Story
 ##### 40	very Large Story
+### daily scrum meeeting 2 examples 
+| member   | questions                                                                                    | answer                                                                                                                                 |
+|----------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| member 1 | 1- what will you today? 2- what have you done yesterday? 3- did you find any obsticles ?     | 1-i have to code function for login 2- i have codded login button and linj it with the backend 3- no everything was fine to me         |
+| member2  | 1- what will you do today? 2- what have you done yesterday? 3-did you phased any obsitcles ? | 1- i will work on linking the database with the front end 2- i worked on the database tables and links 3- i had some network problems  |
