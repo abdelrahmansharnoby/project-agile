@@ -41,7 +41,7 @@ in this pahse we will do the basics of the professors functionality uploading th
 #### rationale 
 product packlog items are ordered according to their bussiness value according to the stakeholders, the stakeholders give high priority to the items that they see has high priority according to them, if a story x depends on another story y so x must be executed first then y  
 ### sprints info 
-#### our team can do around 40 story point per sprint
+#### our team can do around 55 story point per sprint
 ### we used modified febonacci in estimating story points 
 ##### 5	very Small Story
 ##### 8	Small Story
