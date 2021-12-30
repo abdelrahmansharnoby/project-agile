@@ -43,9 +43,9 @@ product packlog items are ordered according to their bussiness value according t
 ### sprints info 
 #### our team can do around 40 story point per sprint
 ### we used modified febonacci in estimating story points 
-5	very Small Story
-8	Small Story
-13	Medium Story
-20	Large Story
-40	very Large Story
+##### 5	very Small Story
+##### 8	Small Story
+##### 13	Medium Story
+##### 20	Large Story
+##### 40	very Large Story
 
