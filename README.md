@@ -48,4 +48,3 @@ product packlog items are ordered according to their bussiness value according t
 ##### 13	Medium Story
 ##### 20	Large Story
 ##### 40	very Large Story
-
