@@ -61,3 +61,12 @@ for the ratinale the diagram is test-driven developement which is software uproa
 |----------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | member 1 | 1- what will you today? 2- what have you done yesterday? 3- did you find any obsticles ?     | 1- i will work on the quiz interface 2- have worked on quiz timer on the site 3- no obsiticles                        |
 | member2  | 1- what will you do today? 2- what have you done yesterday? 3-did you phased any obsitcles ? | 1- i will integrate the quiz with the backend 2- i have worked on linking the quiz with the databese 3- no obsticles  |
+### sprint doccument 
+#### sprint 1 goal: to working on the professor login, database handling, adding the materials, UI for professors 
+#### sprint backlog: mentioned in the word doc
+#### epic to be delevered : none 
+#### previous sprint: none 
+#### sprint 2 goal: student quiz, adding quiz, student login, adding assignment
+#### sprint backlog: mentioned in the word doc 
+#### epic to be delivered : prefessors epic 
+#### previous sprint goal: to working on the professor login, database handling, adding the materials, UI for professors
